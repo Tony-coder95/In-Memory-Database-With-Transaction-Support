@@ -1,0 +1,3 @@
+/Users/tonymolina/CLionProjects/DataProcessignAndStorageAssignment/cmake-build-debug/CMakeFiles/DataProcessignAndStorageAssignment.dir
+/Users/tonymolina/CLionProjects/DataProcessignAndStorageAssignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tonymolina/CLionProjects/DataProcessignAndStorageAssignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
